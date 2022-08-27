@@ -21,4 +21,4 @@ Wanted to obtain the HCPs from the expression matrix using Rhcpp (https://github
 
 ### 4. Using matrix eQTL
 
-My code for this part accidentally got deleted. I made a script that incorporates the files from the previous steps to pass through the matrix eQTL function. Then, I made a bash script that executes the R script and submit it as a job to the queue of the computing cluster.
+My code for this part unfortunately accidentally got deleted. I made a script that incorporates the files from the previous steps to pass through the matrix eQTL function. Then, I made a bash script that executes the R script and submit it as a job to the queue of the computing cluster.
